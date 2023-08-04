@@ -1,0 +1,53 @@
+
+Question : what is python 
+Answer : Python is a programming language that is widely used in many different application domains.
+Question : what is physics 
+Answer : Physics is the study of the fundamental principles governing the natural world. It covers a wide range of topics, from the smallest particles to the largest structures in the universe.
+Question : what is chemistry 
+Answer : Chemistry is the study of the properties of matter and the interactions between different types of matter. It is a branch of science that is essential to our understanding of the world around us.
+Question : what is nn? 
+Answer : There is no one-size-fits-all answer to this question, as the best neural network architecture for a given problem will vary depending on the specifics of the problem. However, some common architectures for neural networks include fully connected networks, convolutional neural networks, and recurrent neural networks.
+Question : what is kinematics 
+Answer : Kinematics is the study of motion. It is a branch of physics that deals with the description of motion, without reference to the forces that cause it.
+Question : what is the dipole? 
+Answer : A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.
+Question : what is the smallest unit of charge 
+Answer : The smallest unit of charge is the electron.
+Question : what's the value of electron 
+Answer : The value of an electron is -1.602 x 10-19 coulombs.
+Question : what is coulombs 
+Answer : A coulomb is a unit of electric charge.
+Question : The position of an object 
+Answer : The position of an object is its location in space.
+Question : moving along x-axis is given by x = a + bt2 
+Answer : This equation describes motion along the x-axis where a is the initial position, b is the acceleration, and t is the time.
+Question : where a = 8.5 m, b = 2.5 m s�2 and t is 
+Answer : The position of the object at time t is given by x = 8.5 + 2.5t2.
+Question : measured in seconds. What is its velocity at 
+Answer : The velocity of the object at time t is given by v = 2.5t.
+Question : t = 0 s and t = 2.0 s. What is the average 
+Answer : The average velocity of the object over the time interval from t = 0 s to t = 2.0 s is given by v = (2.5t + 2.5(2.0-0))/2.0 = 2.5 m/s.
+Question : velocity between t = 2.0 s and t = 4.0 s ?  
+Answer : The average velocity of the object over the time interval from t = 2.0 s to t = 4.0 s is given by v = (2.5t + 2.5(4.0-2.0))/2.0 = 3.75 m/s.
+Question : Can velocity be negative 
+Answer : Yes, velocity can be negative. Velocity is a vector quantity, so it has both magnitude and direction. The direction of velocity can be either positive or negative, depending on the direction of motion.
+Question : is kinematics important for JEE 
+Answer : Kinematics is one of the important topics for JEE. It is a branch of physics that deals with the description of motion, without reference to the forces that cause it.
+Question : Hydrogen gas is not evolved when most of the metals react with nitric acid. why? 
+Answer : Hydrogen gas is not evolved when most of the metals react with nitric acid because the metals are not strong enough to reduce the nitric acid to nitrogen gas.
+Question : where is africa 
+Answer : Africa is a continent located in the eastern hemisphere.
+Question : what is land 
+Answer : Land is a natural feature of the earth's surface that is composed of solid rock, soil, and vegetation.
+Question : what is my friend's name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is my friend's name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is my friend's name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is my friends name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is my friend's name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : I asked what is my friends name did not reply anything 
+Answer : I'm sorry, but I cannot answer that question.
