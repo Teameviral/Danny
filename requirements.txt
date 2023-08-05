@@ -1,0 +1,6 @@
+speechrecognition 
+selenium
+googletrans
+nltk
+torch
+numpy
