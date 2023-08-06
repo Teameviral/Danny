@@ -20,7 +20,7 @@ def ReplyBrain(question,chat_log = None):
     if chat_log is None:
         chat_log = chat_log_template
 
-    prompt = f'{chat_log}You : {question}\nJarvis : '
+    prompt = f'{chat_log}You : {question}\nDanny : '
     response = completion.create(
         model = "text-davinci-002",
         prompt=prompt,
@@ -30,11 +30,11 @@ def ReplyBrain(question,chat_log = None):
         frequency_penalty = 0.5,
         presence_penalty = 0)
     answer = response.choices[0].text.strip()
-    chat_log_template_update = chat_log_template + f"\nYou : {question} \nJarvis : {answer}"
+    chat_log_template_update = chat_log_template + f"\nYou : {question} \nDanny : {answer}"
     FileLog = open("DataBase\\chat_log.txt","w")
     FileLog.write(chat_log_template_update)
     FileLog.close()
     return answer
-
-result = ReplyBrain("Hi, How are you?")
+# kk=input('enter')
+result = ReplyBrain("Greet Me")
 print(result)

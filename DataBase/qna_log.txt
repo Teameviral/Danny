@@ -39,15 +39,7 @@ Question : where is africa
 Answer : Africa is a continent located in the eastern hemisphere.
 Question : what is land 
 Answer : Land is a natural feature of the earth's surface that is composed of solid rock, soil, and vegetation.
-Question : what is my friend's name 
-Answer : I'm sorry, but I cannot answer that question.
-Question : what is my friend's name 
-Answer : I'm sorry, but I cannot answer that question.
-Question : what is my friend's name 
-Answer : I'm sorry, but I cannot answer that question.
-Question : what is my friends name 
-Answer : I'm sorry, but I cannot answer that question.
-Question : what is my friend's name 
-Answer : I'm sorry, but I cannot answer that question.
-Question : I asked what is my friends name did not reply anything 
-Answer : I'm sorry, but I cannot answer that question.
+Question : Danny what is the capital of india 
+Answer : The capital of India is New Delhi.
+Question : what is your name 
+Answer : My name is Danny.

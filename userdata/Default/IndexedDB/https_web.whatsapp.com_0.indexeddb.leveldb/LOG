@@ -1,0 +1,188 @@
+2023/08/06-11:57:26.854 10bec Reusing MANIFEST C:\Users\wbavi\Downloads\Danny\Danny\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/06-11:57:26.854 10bec Recovering log #1355
+2023/08/06-11:57:26.867 10bec Reusing old log C:\Users\wbavi\Downloads\Danny\Danny\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001355.log 
+2023/08/06-11:57:27.920 ec98 Compacting 1@1 + 2@2 files
+2023/08/06-11:57:27.981 ec98 Generated table #1365@1: 30108 keys, 2227120 bytes
+2023/08/06-11:57:28.038 ec98 Generated table #1366@1: 24585 keys, 2206635 bytes
+2023/08/06-11:57:28.038 ec98 Compacted 1@1 + 2@2 files => 4433755 bytes
+2023/08/06-11:57:28.039 ec98 compacted to: files[ 0 1 27 0 0 0 0 ]
+2023/08/06-11:57:28.039 ec98 Delete type=2 #1336
+2023/08/06-11:57:28.039 ec98 Delete type=2 #1337
+2023/08/06-11:57:28.039 ec98 Delete type=2 #1358
+2023/08/06-11:57:32.091 e318 Compacting 1@1 + 3@2 files
+2023/08/06-11:57:32.149 e318 Generated table #1367@1: 102353 keys, 2253222 bytes
+2023/08/06-11:57:32.197 e318 Level-0 table #1370: started
+2023/08/06-11:57:32.213 e318 Level-0 table #1370: 926059 bytes OK
+2023/08/06-11:57:32.214 e318 Delete type=0 #1355
+2023/08/06-11:57:32.220 e318 Generated table #1368@1: 101333 keys, 2250867 bytes
+2023/08/06-11:57:32.222 e318 Generated table #1371@1: 2286 keys, 69471 bytes
+2023/08/06-11:57:32.222 e318 Compacted 1@1 + 3@2 files => 4573560 bytes
+2023/08/06-11:57:32.222 e318 compacted to: files[ 1 0 27 0 0 0 0 ]
+2023/08/06-11:57:32.223 e318 Compacting 1@0 + 0@1 files
+2023/08/06-11:57:32.233 e318 Generated table #1372@0: 14187 keys, 386308 bytes
+2023/08/06-11:57:32.237 e318 Generated table #1373@0: 1632 keys, 90944 bytes
+2023/08/06-11:57:32.238 e318 Generated table #1374@0: 193 keys, 9235 bytes
+2023/08/06-11:57:32.238 e318 Compacted 1@0 + 0@1 files => 486487 bytes
+2023/08/06-11:57:32.238 e318 compacted to: files[ 0 3 27 0 0 0 0 ]
+2023/08/06-11:57:32.238 e318 Delete type=2 #1227
+2023/08/06-11:57:32.238 e318 Delete type=2 #1228
+2023/08/06-11:57:32.238 e318 Delete type=2 #1229
+2023/08/06-11:57:32.238 e318 Delete type=2 #1333
+2023/08/06-11:57:32.242 e318 Compacting 1@1 + 10@2 files
+2023/08/06-11:57:32.282 e318 Generated table #1375@1: 55133 keys, 2217948 bytes
+2023/08/06-11:57:32.317 e318 Generated table #1376@1: 42614 keys, 2204702 bytes
+2023/08/06-11:57:32.371 e318 Generated table #1377@1: 63790 keys, 2235312 bytes
+2023/08/06-11:57:32.401 e318 Generated table #1378@1: 27817 keys, 2188096 bytes
+2023/08/06-11:57:32.421 e318 Generated table #1379@1: 1921 keys, 2152334 bytes
+2023/08/06-11:57:32.440 e318 Generated table #1380@1: 2274 keys, 2162391 bytes
+2023/08/06-11:57:32.462 e318 Generated table #1381@1: 2474 keys, 2163726 bytes
+2023/08/06-11:57:32.484 e318 Generated table #1382@1: 2155 keys, 2161025 bytes
+2023/08/06-11:57:32.495 e318 Generated table #1383@1: 819 keys, 2127359 bytes
+2023/08/06-11:57:32.496 e318 Generated table #1384@1: 37 keys, 24978 bytes
+2023/08/06-11:57:32.496 e318 Compacted 1@1 + 10@2 files => 19637871 bytes
+2023/08/06-11:57:32.497 e318 compacted to: files[ 0 2 27 0 0 0 0 ]
+2023/08/06-11:57:32.497 e318 Delete type=2 #1349
+2023/08/06-11:57:32.497 e318 Delete type=2 #1350
+2023/08/06-11:57:32.497 e318 Delete type=2 #1351
+2023/08/06-11:57:32.497 e318 Delete type=2 #1352
+2023/08/06-11:57:32.497 e318 Delete type=2 #1353
+2023/08/06-11:57:32.497 e318 Delete type=2 #1359
+2023/08/06-11:57:32.497 e318 Delete type=2 #1360
+2023/08/06-11:57:32.497 e318 Delete type=2 #1361
+2023/08/06-11:57:32.497 e318 Delete type=2 #1362
+2023/08/06-11:57:32.497 e318 Delete type=2 #1363
+2023/08/06-11:57:32.497 e318 Delete type=2 #1370
+2023/08/06-11:57:32.497 e318 Delete type=2 #1372
+2023/08/06-11:57:33.353 e318 Compacting 1@1 + 10@2 files
+2023/08/06-11:57:33.408 e318 Generated table #1385@1: 28806 keys, 2250114 bytes
+2023/08/06-11:57:33.449 e318 Generated table #1386@1: 24664 keys, 2278371 bytes
+2023/08/06-11:57:33.490 e318 Generated table #1387@1: 30101 keys, 2226837 bytes
+2023/08/06-11:57:33.523 e318 Generated table #1388@1: 24632 keys, 2212664 bytes
+2023/08/06-11:57:33.542 e318 Generated table #1389@1: 4555 keys, 2123366 bytes
+2023/08/06-11:57:33.562 e318 Generated table #1390@1: 7317 keys, 2128933 bytes
+2023/08/06-11:57:33.605 e318 Generated table #1391@1: 91076 keys, 2237505 bytes
+2023/08/06-11:57:33.652 e318 Generated table #1392@1: 100563 keys, 2250405 bytes
+2023/08/06-11:57:33.698 e318 Generated table #1393@1: 100859 keys, 2252034 bytes
+2023/08/06-11:57:33.742 e318 Generated table #1394@1: 101779 keys, 2252641 bytes
+2023/08/06-11:57:33.743 e318 Generated table #1395@1: 331 keys, 7642 bytes
+2023/08/06-11:57:33.743 e318 Compacted 1@1 + 10@2 files => 22220512 bytes
+2023/08/06-11:57:33.744 e318 compacted to: files[ 0 1 28 0 0 0 0 ]
+2023/08/06-11:57:33.744 e318 Delete type=2 #1334
+2023/08/06-11:57:33.744 e318 Delete type=2 #1335
+2023/08/06-11:57:33.744 e318 Delete type=2 #1338
+2023/08/06-11:57:33.744 e318 Delete type=2 #1339
+2023/08/06-11:57:33.744 e318 Delete type=2 #1340
+2023/08/06-11:57:33.744 e318 Delete type=2 #1341
+2023/08/06-11:57:33.744 e318 Delete type=2 #1342
+2023/08/06-11:57:33.744 e318 Delete type=2 #1343
+2023/08/06-11:57:33.744 e318 Delete type=2 #1365
+2023/08/06-11:57:33.744 e318 Delete type=2 #1366
+2023/08/06-11:57:33.744 e318 Delete type=2 #1373
+2023/08/06-11:57:38.074 e318 Level-0 table #1397: started
+2023/08/06-11:57:38.092 e318 Level-0 table #1397: 879081 bytes OK
+2023/08/06-11:57:38.093 e318 Delete type=0 #1369
+2023/08/06-11:57:38.152 10bec Compacting 1@0 + 1@1 files
+2023/08/06-11:57:38.162 10bec Generated table #1398@0: 10986 keys, 196968 bytes
+2023/08/06-11:57:38.171 10bec Generated table #1399@0: 5585 keys, 229258 bytes
+2023/08/06-11:57:38.172 10bec Generated table #1400@0: 73 keys, 8510 bytes
+2023/08/06-11:57:38.172 10bec Compacted 1@0 + 1@1 files => 434736 bytes
+2023/08/06-11:57:38.172 10bec compacted to: files[ 0 3 28 0 0 0 0 ]
+2023/08/06-11:57:38.482 e318 Compacting 1@1 + 12@2 files
+2023/08/06-11:57:38.536 e318 Generated table #1401@1: 30102 keys, 2227623 bytes
+2023/08/06-11:57:38.576 e318 Generated table #1402@1: 24635 keys, 2212704 bytes
+2023/08/06-11:57:38.598 e318 Generated table #1403@1: 4555 keys, 2123366 bytes
+2023/08/06-11:57:38.621 e318 Generated table #1404@1: 7317 keys, 2128933 bytes
+2023/08/06-11:57:38.663 e318 Generated table #1405@1: 91076 keys, 2237505 bytes
+2023/08/06-11:57:38.707 e318 Generated table #1406@1: 100563 keys, 2250405 bytes
+2023/08/06-11:57:38.750 e318 Generated table #1407@1: 100859 keys, 2252034 bytes
+2023/08/06-11:57:38.796 e318 Generated table #1408@1: 101779 keys, 2252641 bytes
+2023/08/06-11:57:38.844 e318 Generated table #1409@1: 101886 keys, 2252998 bytes
+2023/08/06-11:57:38.890 e318 Generated table #1410@1: 102060 keys, 2251286 bytes
+2023/08/06-11:57:38.897 e318 Generated table #1411@1: 13206 keys, 298971 bytes
+2023/08/06-11:57:38.897 e318 Compacted 1@1 + 12@2 files => 22488466 bytes
+2023/08/06-11:57:38.897 e318 compacted to: files[ 0 2 27 0 0 0 0 ]
+2023/08/06-11:57:38.897 e318 Delete type=2 #1344
+2023/08/06-11:57:38.897 e318 Delete type=2 #1367
+2023/08/06-11:57:38.897 e318 Delete type=2 #1368
+2023/08/06-11:57:38.897 e318 Delete type=2 #1374
+2023/08/06-11:57:38.897 e318 Delete type=2 #1387
+2023/08/06-11:57:38.897 e318 Delete type=2 #1388
+2023/08/06-11:57:38.897 e318 Delete type=2 #1389
+2023/08/06-11:57:38.897 e318 Delete type=2 #1390
+2023/08/06-11:57:38.897 e318 Delete type=2 #1391
+2023/08/06-11:57:38.897 e318 Delete type=2 #1392
+2023/08/06-11:57:38.897 e318 Delete type=2 #1393
+2023/08/06-11:57:38.897 e318 Delete type=2 #1394
+2023/08/06-11:57:38.897 e318 Delete type=2 #1395
+2023/08/06-11:57:38.897 e318 Delete type=2 #1397
+2023/08/06-11:57:38.897 e318 Delete type=2 #1399
+2023/08/06-11:57:41.671 e318 Compacting 1@1 + 4@2 files
+2023/08/06-11:57:41.709 e318 Generated table #1412@1: 55790 keys, 2222992 bytes
+2023/08/06-11:57:41.758 e318 Generated table #1413@1: 46562 keys, 2206075 bytes
+2023/08/06-11:57:41.802 e318 Generated table #1414@1: 60695 keys, 2232588 bytes
+2023/08/06-11:57:41.829 e318 Generated table #1415@1: 25704 keys, 2081030 bytes
+2023/08/06-11:57:41.829 e318 Compacted 1@1 + 4@2 files => 8742685 bytes
+2023/08/06-11:57:41.830 e318 compacted to: files[ 0 1 27 0 0 0 0 ]
+2023/08/06-11:57:41.830 e318 Delete type=2 #1375
+2023/08/06-11:57:41.830 e318 Delete type=2 #1376
+2023/08/06-11:57:41.830 e318 Delete type=2 #1377
+2023/08/06-11:57:41.830 e318 Delete type=2 #1378
+2023/08/06-11:57:41.830 e318 Delete type=2 #1398
+2023/08/06-12:06:21.555 e318 Level-0 table #1417: started
+2023/08/06-12:06:21.593 e318 Level-0 table #1417: 663134 bytes OK
+2023/08/06-12:06:21.595 e318 Delete type=0 #1396
+2023/08/06-12:07:37.588 e318 Compacting 1@0 + 0@1 files
+2023/08/06-12:07:37.617 e318 Generated table #1418@0: 10560 keys, 129663 bytes
+2023/08/06-12:07:37.635 e318 Generated table #1419@0: 2153 keys, 97223 bytes
+2023/08/06-12:07:37.635 e318 Compacted 1@0 + 0@1 files => 226886 bytes
+2023/08/06-12:07:37.636 e318 compacted to: files[ 0 3 27 0 0 0 0 ]
+2023/08/06-12:07:37.637 e318 Delete type=2 #1417
+2023/08/06-12:07:37.664 e318 Compacting 1@1 + 4@2 files
+2023/08/06-12:07:37.779 e318 Generated table #1420@1: 28806 keys, 2250038 bytes
+2023/08/06-12:07:37.881 e318 Generated table #1421@1: 24664 keys, 2278371 bytes
+2023/08/06-12:07:37.971 e318 Generated table #1422@1: 30101 keys, 2227427 bytes
+2023/08/06-12:07:38.068 e318 Generated table #1423@1: 24622 keys, 2212694 bytes
+2023/08/06-12:07:38.068 e318 Compacted 1@1 + 4@2 files => 8968530 bytes
+2023/08/06-12:07:38.069 e318 compacted to: files[ 0 2 27 0 0 0 0 ]
+2023/08/06-12:07:38.070 e318 Delete type=2 #1385
+2023/08/06-12:07:38.070 e318 Delete type=2 #1386
+2023/08/06-12:07:38.070 e318 Delete type=2 #1401
+2023/08/06-12:07:38.070 e318 Delete type=2 #1402
+2023/08/06-12:07:38.070 e318 Delete type=2 #1419
+2023/08/06-12:08:07.455 e318 Compacting 1@1 + 8@2 files
+2023/08/06-12:08:07.545 e318 Generated table #1424@1: 56514 keys, 2222323 bytes
+2023/08/06-12:08:07.636 e318 Generated table #1425@1: 44920 keys, 2204610 bytes
+2023/08/06-12:08:07.734 e318 Generated table #1426@1: 61995 keys, 2234640 bytes
+2023/08/06-12:08:07.819 e318 Generated table #1427@1: 26602 keys, 2182428 bytes
+2023/08/06-12:08:07.872 e318 Generated table #1428@1: 1933 keys, 2153919 bytes
+2023/08/06-12:08:07.934 e318 Generated table #1429@1: 2281 keys, 2161877 bytes
+2023/08/06-12:08:07.993 e318 Generated table #1430@1: 2480 keys, 2162731 bytes
+2023/08/06-12:08:08.037 e318 Generated table #1431@1: 2090 keys, 2102834 bytes
+2023/08/06-12:08:08.037 e318 Compacted 1@1 + 8@2 files => 17425362 bytes
+2023/08/06-12:08:08.038 e318 compacted to: files[ 0 1 27 0 0 0 0 ]
+2023/08/06-12:08:08.039 e318 Delete type=2 #1379
+2023/08/06-12:08:08.039 e318 Delete type=2 #1380
+2023/08/06-12:08:08.039 e318 Delete type=2 #1381
+2023/08/06-12:08:08.039 e318 Delete type=2 #1382
+2023/08/06-12:08:08.039 e318 Delete type=2 #1412
+2023/08/06-12:08:08.039 e318 Delete type=2 #1413
+2023/08/06-12:08:08.039 e318 Delete type=2 #1414
+2023/08/06-12:08:08.039 e318 Delete type=2 #1415
+2023/08/06-12:08:08.039 e318 Delete type=2 #1418
+2023/08/06-12:08:40.296 10bec Level-0 table #1433: started
+2023/08/06-12:08:40.333 10bec Level-0 table #1433: 735263 bytes OK
+2023/08/06-12:08:40.335 10bec Delete type=0 #1416
+2023/08/06-12:08:42.760 e318 Compacting 1@0 + 0@1 files
+2023/08/06-12:08:42.786 e318 Generated table #1434@0: 11464 keys, 127500 bytes
+2023/08/06-12:08:42.807 e318 Generated table #1435@0: 5347 keys, 193248 bytes
+2023/08/06-12:08:42.807 e318 Compacted 1@0 + 0@1 files => 320748 bytes
+2023/08/06-12:08:42.808 e318 compacted to: files[ 0 3 27 0 0 0 0 ]
+2023/08/06-12:08:42.809 e318 Delete type=2 #1433
+2023/08/06-12:08:52.868 e318 Compacting 1@1 + 2@2 files
+2023/08/06-12:08:52.972 e318 Generated table #1436@1: 30102 keys, 2227808 bytes
+2023/08/06-12:08:53.067 e318 Generated table #1437@1: 24625 keys, 2212951 bytes
+2023/08/06-12:08:53.067 e318 Compacted 1@1 + 2@2 files => 4440759 bytes
+2023/08/06-12:08:53.068 e318 compacted to: files[ 0 2 27 0 0 0 0 ]
+2023/08/06-12:08:53.068 e318 Delete type=2 #1422
+2023/08/06-12:08:53.068 e318 Delete type=2 #1423
+2023/08/06-12:08:53.069 e318 Delete type=2 #1435

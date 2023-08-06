@@ -1,4 +1,18 @@
 You : ok thank you 
-Jarvis : You're welcome.
+Danny : You're welcome.
 You : How are you 
-Jarvis : I'm doing well, thank you for asking.
+Danny : I'm doing well, thank you for asking.
+You : Tell my mother
+Danny : Your Mother Name is Shila Bhattacharjee
+You : Hi 
+Danny : Hello, how are you?
+You : danny 
+Danny : Yes, what can I do for you?
+You : leave the address 
+Danny : The address of India is:
+You : Abhishek Bhattacharya 
+Danny : Abhishek Bhattacharya is an Indian Programmer, Author who is famous in Bengal.
+You : bhattacharya 
+Danny : Bhattacharya is a Bengali Hindu surname.
+You : Greet Me 
+Danny : Hello, how are you?

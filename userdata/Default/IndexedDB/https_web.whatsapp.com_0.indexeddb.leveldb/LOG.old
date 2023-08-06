@@ -1,0 +1,159 @@
+2023/08/06-11:45:30.209 8670 Reusing MANIFEST C:\Users\wbavi\Downloads\Danny\Danny\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/06-11:45:30.210 8670 Recovering log #1300
+2023/08/06-11:45:30.212 8670 Reusing old log C:\Users\wbavi\Downloads\Danny\Danny\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001300.log 
+2023/08/06-11:45:31.133 db74 Compacting 1@0 + 1@1 files
+2023/08/06-11:45:31.143 db74 Generated table #1303@0: 11750 keys, 201539 bytes
+2023/08/06-11:45:31.162 db74 Generated table #1304@0: 8353 keys, 393975 bytes
+2023/08/06-11:45:31.162 db74 Compacted 1@0 + 1@1 files => 595514 bytes
+2023/08/06-11:45:31.163 db74 compacted to: files[ 0 2 31 0 0 0 0 ]
+2023/08/06-11:45:31.163 db74 Delete type=2 #1295
+2023/08/06-11:45:31.163 db74 Delete type=2 #1301
+2023/08/06-11:45:31.607 db74 Compacting 1@1 + 4@2 files
+2023/08/06-11:45:31.649 db74 Generated table #1305@1: 56343 keys, 2224914 bytes
+2023/08/06-11:45:31.687 db74 Generated table #1306@1: 45665 keys, 2204554 bytes
+2023/08/06-11:45:31.739 db74 Generated table #1307@1: 61459 keys, 2233818 bytes
+2023/08/06-11:45:31.769 db74 Generated table #1308@1: 26112 keys, 1987524 bytes
+2023/08/06-11:45:31.769 db74 Compacted 1@1 + 4@2 files => 8650810 bytes
+2023/08/06-11:45:31.769 db74 compacted to: files[ 0 1 31 0 0 0 0 ]
+2023/08/06-11:45:31.770 db74 Delete type=2 #1296
+2023/08/06-11:45:31.770 db74 Delete type=2 #1297
+2023/08/06-11:45:31.770 db74 Delete type=2 #1298
+2023/08/06-11:45:31.770 db74 Delete type=2 #1299
+2023/08/06-11:45:31.770 db74 Delete type=2 #1303
+2023/08/06-11:45:35.134 db74 Level-0 table #1310: started
+2023/08/06-11:45:35.149 db74 Level-0 table #1310: 711298 bytes OK
+2023/08/06-11:45:35.150 db74 Delete type=0 #1300
+2023/08/06-11:45:35.151 db74 Compacting 1@0 + 1@1 files
+2023/08/06-11:45:35.161 db74 Generated table #1311@0: 14919 keys, 179789 bytes
+2023/08/06-11:45:35.175 db74 Generated table #1312@0: 8793 keys, 435407 bytes
+2023/08/06-11:45:35.176 db74 Generated table #1313@0: 70 keys, 8212 bytes
+2023/08/06-11:45:35.176 db74 Compacted 1@0 + 1@1 files => 623408 bytes
+2023/08/06-11:45:35.177 db74 compacted to: files[ 0 3 31 0 0 0 0 ]
+2023/08/06-11:45:35.242 db74 Compacting 1@1 + 4@2 files
+2023/08/06-11:45:35.292 db74 Generated table #1314@1: 29286 keys, 2253468 bytes
+2023/08/06-11:45:35.356 db74 Generated table #1315@1: 24708 keys, 2276896 bytes
+2023/08/06-11:45:35.407 db74 Generated table #1316@1: 30352 keys, 2221605 bytes
+2023/08/06-11:45:35.458 db74 Generated table #1317@1: 23353 keys, 2207494 bytes
+2023/08/06-11:45:35.460 db74 Generated table #1318@1: 157 keys, 45784 bytes
+2023/08/06-11:45:35.460 db74 Compacted 1@1 + 4@2 files => 9005247 bytes
+2023/08/06-11:45:35.461 db74 compacted to: files[ 0 2 32 0 0 0 0 ]
+2023/08/06-11:45:35.461 db74 Delete type=2 #1304
+2023/08/06-11:45:35.461 db74 Delete type=2 #1310
+2023/08/06-11:45:35.468 db74 Compacting 1@1 + 13@2 files
+2023/08/06-11:45:35.526 db74 Generated table #1319@1: 55083 keys, 2224644 bytes
+2023/08/06-11:45:35.584 db74 Generated table #1320@1: 47820 keys, 2205260 bytes
+2023/08/06-11:45:35.660 db74 Generated table #1321@1: 59732 keys, 2232776 bytes
+2023/08/06-11:45:35.696 db74 Generated table #1322@1: 24685 keys, 2179245 bytes
+2023/08/06-11:45:35.718 db74 Generated table #1323@1: 1983 keys, 2154846 bytes
+2023/08/06-11:45:35.741 db74 Generated table #1324@1: 2278 keys, 2162500 bytes
+2023/08/06-11:45:35.766 db74 Generated table #1325@1: 2463 keys, 2163512 bytes
+2023/08/06-11:45:35.784 db74 Generated table #1326@1: 2008 keys, 2158510 bytes
+2023/08/06-11:45:35.797 db74 Generated table #1327@1: 1122 keys, 2130851 bytes
+2023/08/06-11:45:35.804 db74 Generated table #1328@1: 1041 keys, 650241 bytes
+2023/08/06-11:45:35.804 db74 Compacted 1@1 + 13@2 files => 20262385 bytes
+2023/08/06-11:45:35.805 db74 compacted to: files[ 0 1 29 0 0 0 0 ]
+2023/08/06-11:45:35.805 db74 Delete type=2 #1101
+2023/08/06-11:45:35.805 db74 Delete type=2 #1102
+2023/08/06-11:45:35.805 db74 Delete type=2 #1118
+2023/08/06-11:45:35.805 db74 Delete type=2 #1119
+2023/08/06-11:45:35.805 db74 Delete type=2 #1120
+2023/08/06-11:45:35.805 db74 Delete type=2 #1121
+2023/08/06-11:45:35.805 db74 Delete type=2 #1122
+2023/08/06-11:45:35.805 db74 Delete type=2 #1143
+2023/08/06-11:45:35.805 db74 Delete type=2 #1212
+2023/08/06-11:45:35.805 db74 Delete type=2 #1246
+2023/08/06-11:45:35.805 db74 Delete type=2 #1281
+2023/08/06-11:45:35.805 db74 Delete type=2 #1286
+2023/08/06-11:45:35.805 db74 Delete type=2 #1287
+2023/08/06-11:45:35.805 db74 Delete type=2 #1305
+2023/08/06-11:45:35.805 db74 Delete type=2 #1306
+2023/08/06-11:45:35.805 db74 Delete type=2 #1307
+2023/08/06-11:45:35.805 db74 Delete type=2 #1308
+2023/08/06-11:45:35.805 db74 Delete type=2 #1311
+2023/08/06-11:45:35.805 db74 Delete type=2 #1312
+2023/08/06-11:45:45.473 db74 Level-0 table #1330: started
+2023/08/06-11:45:45.494 db74 Level-0 table #1330: 1175469 bytes OK
+2023/08/06-11:45:45.494 db74 Delete type=0 #1309
+2023/08/06-11:45:45.496 db74 Compacting 1@0 + 1@1 files
+2023/08/06-11:45:45.514 db74 Generated table #1331@0: 14719 keys, 478461 bytes
+2023/08/06-11:45:45.523 db74 Generated table #1332@0: 5939 keys, 275291 bytes
+2023/08/06-11:45:45.524 db74 Generated table #1333@0: 225 keys, 12390 bytes
+2023/08/06-11:45:45.524 db74 Compacted 1@0 + 1@1 files => 766142 bytes
+2023/08/06-11:45:45.524 db74 compacted to: files[ 0 3 29 0 0 0 0 ]
+2023/08/06-11:45:45.526 db74 Compacting 1@1 + 15@2 files
+2023/08/06-11:45:45.574 db74 Generated table #1334@1: 28800 keys, 2250176 bytes
+2023/08/06-11:45:45.628 db74 Generated table #1335@1: 24666 keys, 2278394 bytes
+2023/08/06-11:45:45.670 db74 Generated table #1336@1: 30108 keys, 2227799 bytes
+2023/08/06-11:45:45.707 db74 Generated table #1337@1: 24695 keys, 2210676 bytes
+2023/08/06-11:45:45.728 db74 Generated table #1338@1: 4555 keys, 2124712 bytes
+2023/08/06-11:45:45.748 db74 Generated table #1339@1: 7306 keys, 2129154 bytes
+2023/08/06-11:45:45.788 db74 Generated table #1340@1: 91225 keys, 2238477 bytes
+2023/08/06-11:45:45.838 db74 Generated table #1341@1: 100550 keys, 2250738 bytes
+2023/08/06-11:45:45.889 db74 Generated table #1342@1: 100867 keys, 2251692 bytes
+2023/08/06-11:45:45.946 db74 Generated table #1343@1: 101731 keys, 2252468 bytes
+2023/08/06-11:45:45.961 db74 Generated table #1344@1: 13003 keys, 288917 bytes
+2023/08/06-11:45:45.961 db74 Compacted 1@1 + 15@2 files => 22503203 bytes
+2023/08/06-11:45:45.961 db74 compacted to: files[ 0 2 25 0 0 0 0 ]
+2023/08/06-11:45:45.961 db74 Delete type=2 #1124
+2023/08/06-11:45:45.961 db74 Delete type=2 #1219
+2023/08/06-11:45:45.961 db74 Delete type=2 #1220
+2023/08/06-11:45:45.961 db74 Delete type=2 #1221
+2023/08/06-11:45:45.961 db74 Delete type=2 #1222
+2023/08/06-11:45:45.961 db74 Delete type=2 #1223
+2023/08/06-11:45:45.961 db74 Delete type=2 #1226
+2023/08/06-11:45:45.961 db74 Delete type=2 #1249
+2023/08/06-11:45:45.961 db74 Delete type=2 #1256
+2023/08/06-11:45:45.961 db74 Delete type=2 #1276
+2023/08/06-11:45:45.961 db74 Delete type=2 #1313
+2023/08/06-11:45:45.961 db74 Delete type=2 #1314
+2023/08/06-11:45:45.962 db74 Delete type=2 #1315
+2023/08/06-11:45:45.962 db74 Delete type=2 #1316
+2023/08/06-11:45:45.962 db74 Delete type=2 #1317
+2023/08/06-11:45:45.962 db74 Delete type=2 #1318
+2023/08/06-11:45:45.962 db74 Delete type=2 #1330
+2023/08/06-11:45:45.962 db74 Delete type=2 #1332
+2023/08/06-11:45:45.979 db74 Compacting 1@1 + 9@2 files
+2023/08/06-11:45:46.019 db74 Generated table #1345@1: 57270 keys, 2222295 bytes
+2023/08/06-11:45:46.062 db74 Generated table #1346@1: 43141 keys, 2204000 bytes
+2023/08/06-11:45:46.118 db74 Generated table #1347@1: 63371 keys, 2235753 bytes
+2023/08/06-11:45:46.151 db74 Generated table #1348@1: 27505 keys, 2184332 bytes
+2023/08/06-11:45:46.171 db74 Generated table #1349@1: 1929 keys, 2152808 bytes
+2023/08/06-11:45:46.192 db74 Generated table #1350@1: 2274 keys, 2162915 bytes
+2023/08/06-11:45:46.212 db74 Generated table #1351@1: 2470 keys, 2162970 bytes
+2023/08/06-11:45:46.232 db74 Generated table #1352@1: 2141 keys, 2160005 bytes
+2023/08/06-11:45:46.243 db74 Generated table #1353@1: 854 keys, 2134618 bytes
+2023/08/06-11:45:46.245 db74 Generated table #1354@1: 282 keys, 149526 bytes
+2023/08/06-11:45:46.245 db74 Compacted 1@1 + 9@2 files => 19769222 bytes
+2023/08/06-11:45:46.246 db74 compacted to: files[ 0 1 26 0 0 0 0 ]
+2023/08/06-11:45:46.246 db74 Delete type=2 #1319
+2023/08/06-11:45:46.246 db74 Delete type=2 #1320
+2023/08/06-11:45:46.246 db74 Delete type=2 #1321
+2023/08/06-11:45:46.246 db74 Delete type=2 #1322
+2023/08/06-11:45:46.246 db74 Delete type=2 #1323
+2023/08/06-11:45:46.246 db74 Delete type=2 #1324
+2023/08/06-11:45:46.246 db74 Delete type=2 #1325
+2023/08/06-11:45:46.246 db74 Delete type=2 #1326
+2023/08/06-11:45:46.246 db74 Delete type=2 #1327
+2023/08/06-11:45:46.246 db74 Delete type=2 #1331
+2023/08/06-11:47:24.609 8670 Level-0 table #1356: started
+2023/08/06-11:47:24.654 8670 Level-0 table #1356: 1183450 bytes OK
+2023/08/06-11:47:24.656 8670 Delete type=0 #1329
+2023/08/06-11:48:20.573 db74 Compacting 1@0 + 0@1 files
+2023/08/06-11:48:20.601 db74 Generated table #1357@0: 15054 keys, 228551 bytes
+2023/08/06-11:48:20.633 db74 Generated table #1358@0: 10684 keys, 541673 bytes
+2023/08/06-11:48:20.633 db74 Compacted 1@0 + 0@1 files => 770224 bytes
+2023/08/06-11:48:20.634 db74 compacted to: files[ 0 3 26 0 0 0 0 ]
+2023/08/06-11:48:20.634 db74 Delete type=2 #1356
+2023/08/06-11:48:50.144 8670 Compacting 1@1 + 4@2 files
+2023/08/06-11:48:50.251 8670 Generated table #1359@1: 57192 keys, 2222355 bytes
+2023/08/06-11:48:50.349 8670 Generated table #1360@1: 43141 keys, 2204000 bytes
+2023/08/06-11:48:50.449 8670 Generated table #1361@1: 63371 keys, 2235753 bytes
+2023/08/06-11:48:50.506 8670 Generated table #1362@1: 27502 keys, 2182363 bytes
+2023/08/06-11:48:50.507 8670 Generated table #1363@1: 3 keys, 2474 bytes
+2023/08/06-11:48:50.507 8670 Compacted 1@1 + 4@2 files => 8846945 bytes
+2023/08/06-11:48:50.508 8670 compacted to: files[ 0 2 27 0 0 0 0 ]
+2023/08/06-11:48:50.508 8670 Delete type=2 #1345
+2023/08/06-11:48:50.508 8670 Delete type=2 #1346
+2023/08/06-11:48:50.508 8670 Delete type=2 #1347
+2023/08/06-11:48:50.508 8670 Delete type=2 #1348
+2023/08/06-11:48:50.508 8670 Delete type=2 #1357
