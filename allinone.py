@@ -287,7 +287,7 @@ def TaskExe():
         query = takecommand()
 
         if 'hello' in query:
-            Speak("Hello Sir , I Am Jarvis .")
+            Speak("Hello Sir , I Am Danny .")
             Speak("Your Personal AI Assistant!")
             Speak("How May I Help You?")
 
@@ -297,12 +297,12 @@ def TaskExe():
 
         elif 'you need a break' in query:
             Speak("Ok Sir , You Can Call Me Anytime !")
-            Speak("Just Say Wake Up Jarvis!")
+            Speak("Just Say Wake Up Danny!")
             break
 
         elif 'youtube search' in query:
             Speak("OK sIR , This Is What I found For Your Search!")
-            query = query.replace("jarvis","")
+            query = query.replace("Danny","")
             query = query.replace("youtube search","")
             web = 'https://www.youtube.com/results?search_query=' + query
             webbrowser.open(web)
@@ -310,7 +310,7 @@ def TaskExe():
 
         elif 'website' in query:
             Speak("Ok Sir , Launching.....")
-            query = query.replace("jarvis","")
+            query = query.replace("Danny","")
             query = query.replace("website","")
             query = query.replace(" ","")
             web1 = query.replace("open","")
@@ -327,7 +327,7 @@ def TaskExe():
 
         elif 'wikipedia' in query:
             Speak("Searching Wikipedia.....")
-            query = query.replace("jarvis","")
+            query = query.replace("Danny","")
             query = query.replace("wikipedia","")
             wiki = wikipedia.summary(query,2)
             Speak(f"According To Wikipedia : {wiki}")
@@ -466,7 +466,7 @@ def TaskExe():
         
         elif 'remember that' in query:
             remeberMsg = query.replace("remember that","")
-            remeberMsg = remeberMsg.replace("jarvis","")
+            remeberMsg = remeberMsg.replace("Danny","")
             Speak("You Tell Me To Remind You That :"+remeberMsg)
             remeber = open('data.txt','w')
             remeber.write(remeberMsg)
@@ -478,7 +478,7 @@ def TaskExe():
 
         elif 'google search' in query:
             import wikipedia as googleScrap
-            query = query.replace("jarvis","")
+            query = query.replace("Danny","")
             query = query.replace("google search","")
             query = query.replace("google","")
             Speak("This Is What I Found On The Web!")
@@ -493,7 +493,7 @@ def TaskExe():
 
         elif 'how to' in query:
             Speak("Getting Data From The Internet !")
-            op = query.replace("jarvis","")
+            op = query.replace("Danny","")
             max_result = 1
             how_to_func = search_wikihow(op,max_result)
             assert len(how_to_func) == 1
