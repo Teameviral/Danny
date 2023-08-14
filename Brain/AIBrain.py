@@ -36,5 +36,5 @@ def ReplyBrain(question,chat_log = None):
     FileLog.close()
     return answer
 # kk=input('enter')
-result = ReplyBrain("Greet Me")
-print(result)
+# result = ReplyBrain("Greet Me")
+# print(result)

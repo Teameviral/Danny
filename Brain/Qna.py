@@ -36,3 +36,4 @@ def QuestionsAnswer(question,chat_log = None):
     FileLog.close()
     return answer
 
+

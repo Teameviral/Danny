@@ -7,7 +7,7 @@ import torch
 import numpy as np 
 import random
 from Features.Open import OpenExe
-from Whatsapp import WhatsappSender
+from Whatsapp import WhatsappSender # normalize_name, get_recipient_name, ListWeb
 
 def TrainTasks():
 
@@ -237,7 +237,7 @@ def MainTaskExecution(Query):
         if "open" in ReturnData:
             Value = OpenExe(TaskNew)
             return Value
-
+        
         elif "whatsapp" in ReturnData:
             Namen = str(TaskNew).replace("send ","")
             Namen = str(Namen).replace("whatsapp ","")
@@ -245,6 +245,19 @@ def MainTaskExecution(Query):
             Namen = str(Namen).replace("to ","")
             WhatsappSender(Namen)
             return True
+
+        # elif "whatsapp" in ReturnData:
+        #     # Extract the recipient's name from the command
+        #     recipient_name = ReturnData.replace("send", "").replace("whatsapp", "").replace("message", "").replace("to", "").strip()
+            
+        #     # Check if the recipient's name is recognized
+        #     normalized_recipient_name = normalize_name(recipient_name)
+        #     if normalized_recipient_name in ListWeb:
+        #         WhatsappSender(normalized_recipient_name)
+        #         return True
+        #     else:
+        #         print("Recipient not recognized.")
     except:
         pass
+
     

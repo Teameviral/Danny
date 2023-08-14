@@ -43,3 +43,12 @@ Question : Danny what is the capital of india
 Answer : The capital of India is New Delhi.
 Question : what is your name 
 Answer : My name is Danny.
+Question : where is the Bhatpara 
+Answer : Bhatpara is a city located in the Indian state of West Bengal.
+Question : what is your name 
+Answer : My name is Danny.
+Question : where is kolkata 
+Answer : Kolkata is a city located in the Indian state of West Bengal.
+
+Question : where is america 
+Answer : America is a continent located in the western hemisphere.
