@@ -5,3 +5,11 @@ nltk
 torch
 numpy
 keyboard
+pyttsx3
+pywikihow
+bs4 
+BeautifulSoup
+pywhatkit
+wikipedia
+pyautogui
+psutil
