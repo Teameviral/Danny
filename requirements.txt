@@ -13,3 +13,8 @@ pywhatkit
 wikipedia
 pyautogui
 psutil
+pyjokes
+pytube
+pyPDF2
+pyinstaller
+PyQt5
