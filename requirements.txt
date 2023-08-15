@@ -5,6 +5,9 @@ nltk
 torch
 numpy
 keyboard
+gtts
+tkinter
+playsound
 pyttsx3
 pywikihow
 bs4 
